@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.553,D:\LLL\__Prog\Vvuz\UniSds350\Sds350.dproj=D:\LLL\__Prog\Vvuz\UniSds350\Sds300.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\LLL\__Prog\Vvuz\UniSds300\Main.dfm=D:\LLL\__Prog\Vvuz\UniSds350\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,=D:\LLL\__Prog\Vvuz\UniSds350\UnRegistr.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,D:\LLL\__Prog\Vvuz\UniSds300\ServerModule.pas=D:\LLL\__Prog\Vvuz\UniSds350\ServerModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,D:\LLL\__Prog\Vvuz\UniSds350\Unit1.dfm=D:\LLL\__Prog\Vvuz\UniSds350\UnAddWish.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,D:\LLL\__Prog\Vvuz\UniSds300\Main.dfm=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,D:\LLL\__Prog\Vvuz\UniSds300\MainModule.dfm=D:\LLL\__Prog\Vvuz\UniSds350\MainModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,D:\LLL\__Prog\Vvuz\UniSds300\MainModule.dfm=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\MainModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.008,=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\ServerModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,=D:\LLL\__Prog\Vvuz\UniSds350\UnAvtor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,D:\LLL\__Prog\Vvuz\UniSds300\ServerModule.pas=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\ServerModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,D:\LLL\__Prog\Vvuz\UniSds350\Unit1.pas=D:\LLL\__Prog\Vvuz\UniSds350\UnAddWish.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\MainModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,=D:\LLL\__Prog\Vvuz\UniSds350\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,D:\LLL\__Prog\Vvuz\UniSds300\MainModule.pas=D:\LLL\__Prog\Vvuz\UniSds350\MainModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,D:\LLL\__Prog\Vvuz\UniSds300\MainModule.pas=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\MainModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\LLL\__Prog\Vvuz\UniSds300\Main.pas=D:\LLL\__Prog\Vvuz\UniSds350\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,D:\LLL\__Prog\Vvuz\UniSds300\ServerModule.dfm=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\ServerModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,D:\LLL\__Prog\Vvuz\UniSds300\ServerModule.dfm=D:\LLL\__Prog\Vvuz\UniSds350\ServerModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,D:\LLL\__Prog\Vvuz\UniSds300\Sds300.dproj=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,D:\LLL\__Prog\Vvuz\UniSds300\Main.pas=C:\Users\Roman\Documents\RAD Studio\Projects\Project1\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,D:\LLL\__Prog\Vvuz\UniSds300\Sds300.dproj=D:\LLL\__Prog\Vvuz\UniSds350\Sds300.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
